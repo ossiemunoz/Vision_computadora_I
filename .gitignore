@@ -1,0 +1,23 @@
+# === TPs ===
+TPs_a2222/**/data/*
+!TPs_a2222/**/data/.gitkeep
+TPs_a2222/**/outputs/*
+!TPs_a2222/**/outputs/.gitkeep
+
+# Notebooks ruido
+.ipynb_checkpoints/
+*.ipynb~*
+*.egg-info/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenvs / mamba
+.venv/
+.env/
+.envrc
+
+# OS
+.DS_Store
+Thumbs.db
